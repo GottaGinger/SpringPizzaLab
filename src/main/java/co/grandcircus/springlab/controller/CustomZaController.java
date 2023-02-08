@@ -22,9 +22,9 @@ public class custompizzaController {
 						new Toppings("Mooshy", 1.5),
 						new Toppings("Vingar", 0.5),
 						new Toppings("Olive Oil", 0.75),
-						new Toppings("Anchovys", 1),
-						new Toppings("Onion", 0.50),
-						new Toppings("Pineapple", 1.75)						
+						new Toppings("Anchovys", 1.15),
+						new Toppings("Onion", 0.57),
+						new Toppings("Beets", 2.00)						
 		));
 		
 		
