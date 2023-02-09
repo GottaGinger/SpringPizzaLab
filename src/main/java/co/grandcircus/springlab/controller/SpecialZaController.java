@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.ui.Model;
 
 @Controller
-public class SpecialtyPizzaController {
+public class SpecialZaController {
 
 	@RequestMapping("/specialty/{name}/{price}")
 	public String specialtyPizza(@PathVariable String name, @PathVariable String price, Model model) {
